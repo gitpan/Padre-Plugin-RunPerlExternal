@@ -8,7 +8,7 @@ use Padre::Constant ();
 use Padre::Plugin   ();
 use Padre::Wx       ();
 
-our $VERSION = '0.50';
+our $VERSION = '0.51';
 our @ISA     = 'Padre::Plugin';
 
 #description: used by padre for compat. check
@@ -49,3 +49,22 @@ sub in_term {
 }
 
 1;
+__DATA__
+=head1 NAME
+
+Padre:: Plugin:: RunPerlExternal - Starts Perl in a separate window
+
+=head1 DESCRIPTION
+
+This plugin launches the Perl document in a separate window, independent from the in "Settings" configurated behavior.
+
+
+=head1 COPYRIGHT & LICENSE
+
+
+This software is copyright (c) 2011 by Matthias Ries
+
+This is free software; you can redistribute it and / or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+=cut

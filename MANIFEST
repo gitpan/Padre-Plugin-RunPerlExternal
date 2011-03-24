@@ -3,6 +3,5 @@ MANIFEST
 Makefile.PL
 README
 lib/Padre/Plugin/RunPerlExternal.pm
-lib/Padre/Plugin/RunPerlExternal.pod
 lib/POD2/DE/Padre/Plugin/RunPerlExternal.pod
-META.yml                                 Module meta-data (added by MakeMaker)
+META.js

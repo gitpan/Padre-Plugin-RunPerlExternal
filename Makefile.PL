@@ -4,7 +4,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     NAME                => 'Padre::Plugin::RunPerlExternal',
-    AUTHOR              => q{Matthias Ries <matthias@coffein-shock.de>},
+    AUTHOR              => q{Matthias Ries <riesm@cpan.org>},
     VERSION_FROM        => 'lib/Padre/Plugin/RunPerlExternal.pm',
     ABSTRACT            => 'lib/Padre/Plugin/RunPerlExternal.pm',
     ($ExtUtils::MakeMaker::VERSION >= 6.3002

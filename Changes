@@ -2,4 +2,6 @@ Revision history for Padre-Plugin-RunPerlExternal
 
 0.50    24.04.2011/20:55
         First version, released on an unsuspecting world.
+0.51    24.04.2011/22:45
+        add POD
 

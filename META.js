@@ -1,7 +1,7 @@
 {
    "abstract" : "Runs perl-document in external window. No need for config-switching",
    "author" : [
-      "Matthias Ries <matthias@coffein-shock.de>"
+      "Matthias Ries <riesm@cpan.org>"
    ],
    "dynamic_config" : 1,
    "generated_by" : "ExtUtils::MakeMaker version 6.56, CPAN::Meta::Converter version 2.110580",
@@ -47,5 +47,5 @@
                          { "thumb" : 'http://img6.imagebanana.com/img/xiglvtu7/thumb/Auswahl_021.png', "big" : 'http://www.imagebanana.com/view/xiglvtu7/Auswahl_021.png' },
                         ],
 ,
-   "version" : "0.50"
+   "version" : "0.51"
 }
