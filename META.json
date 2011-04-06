@@ -22,7 +22,7 @@
    "prereqs" : {
       "build" : {
          "requires" : {
-            "ExtUtils::MakeMaker" : 0
+            "Test::More" : 0
          }
       },
       "configure" : {
@@ -32,19 +32,16 @@
       },
       "runtime" : {
          "requires" : {
+            "Padre" : "0.57",
             "Test::More" : 0
          }
       }
    },
    "release_status" : "stable",
-   "resources" : {
-      "repository" : {
-         "url" : "https://github.com/matthiasries/Padre-Plugin-RunPerlExternal.git"
-        }
-   },
-   "x_screenshots"   : [
-                         { "thumb" : "http://img6.imagebanana.com/img/3tndocxg/thumb/Padre_018.png",   "big" : "http://www.imagebanana.com/view/3tndocxg/Padre_018.png"   },
-                         { "thumb" : "http://img6.imagebanana.com/img/xiglvtu7/thumb/Auswahl_021.png", "big" : "http://www.imagebanana.com/view/xiglvtu7/Auswahl_021.png" }
-                        ],
-   "version" : "0.52"
+   "resources" : {},
+   "version" : "0.54",
+   "x_screenshots" : [
+      "http://www.imagebanana.com/view/3tndocxg/Padre_018.png",
+      "http://www.imagebanana.com/view/xiglvtu7/Auswahl_021.png"
+   ]
 }
